@@ -49,11 +49,11 @@ app.get('/', (req, res) => {
       <div style="margin-top: 8px;">
         <h3 style="text-align: center">For more information check out:</h3>
         <div class="repos">
-          <a href="https://github.com/nodex-labs/create/tree/main#readme">
+          <a href="https://github.com/nodex-labs/create/tree/main#readme" target="_blank">
             @nodex-labs/create Github Repo
           </a>
           <span style="margin: 0 4px;">|</span>
-          <a href="https://github.com/nodex-labs/template-express-basic?tab=readme-ov-file#readme">
+          <a href="https://github.com/nodex-labs/template-express-basic?tab=readme-ov-file#readme" target="_blank">
             Basic Express Template Github Repo
           </a>  
         </div>
